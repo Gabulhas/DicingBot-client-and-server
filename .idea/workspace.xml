@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27d4e2af-645e-489f-868c-c408b7896e4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="socketsTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzU6NSF08ufLyQEGVCArTJ3igL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23448277" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="server.Messages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="socketsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.client" />
+      <module name="socketsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/test/test.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="socketsTest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JAR Application.test.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="JAR Application.test.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27d4e2af-645e-489f-868c-c408b7896e4d" name="Default Changelist" comment="" />
+      <created>1580151740357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580151740357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="143" key="#Project_Structure" timestamp="1580326449239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="191" y="143" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580326449239" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580318465499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580318465499" />
+    <state x="190" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1580485070885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580485070885" />
+    <state x="0" y="131" width="1536" height="561" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1580295483344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="131" width="1536" height="561" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1580295483344" />
+    <state width="737" height="214" key="GridCell.Tab.0.bottom" timestamp="1580588100985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580588100985" />
+    <state width="737" height="214" key="GridCell.Tab.0.center" timestamp="1580588100985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580588100985" />
+    <state width="737" height="214" key="GridCell.Tab.0.left" timestamp="1580588100984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580588100984" />
+    <state width="737" height="214" key="GridCell.Tab.0.right" timestamp="1580588100985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="737" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580588100985" />
+    <state x="328" y="79" width="981" height="707" key="SettingsEditor" timestamp="1580383813031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="328" y="79" width="981" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580383813031" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1580392060243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580392060243" />
+    <state x="127" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1580298030634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="127" y="35" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1580298030634" />
+  </component>
+</project>
